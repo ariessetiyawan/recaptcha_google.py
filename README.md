@@ -7,3 +7,6 @@ Solve reCAPTCHA with Selenium 4 + Python + 4 Random Browser
 
 file executable
 https://drive.google.com/file/d/1QF0x8EAY_gE8VeR98eypBVI4KikY5oKP/view?usp=sharing
+
+video demo
+https://www.youtube.com/watch?v=NAXzB70Sr40
